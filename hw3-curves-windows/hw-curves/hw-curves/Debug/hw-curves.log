@@ -1,0 +1,8 @@
+﻿  curves2.cpp
+d:\cse\167 computer graphic\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(205): warning C4018: '<': signed/unsigned mismatch
+d:\cse\167 computer graphic\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(206): warning C4018: '<': signed/unsigned mismatch
+d:\cse\167 computer graphic\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(206): warning C4018: '<=': signed/unsigned mismatch
+d:\cse\167 computer graphic\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(209): warning C4018: '>': signed/unsigned mismatch
+d:\cse\167 computer graphic\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(209): warning C4018: '>=': signed/unsigned mismatch
+  hw-curves.vcxproj -> D:\CSE\167 computer graphic\hw-curves-windows\hw-curves\Debug\hw-curves.exe
+  hw-curves.vcxproj -> D:\CSE\167 computer graphic\hw-curves-windows\hw-curves\Debug\hw-curves.pdb (Full PDB)
